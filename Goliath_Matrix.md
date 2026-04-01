@@ -1,6 +1,5 @@
 # The Matrix: Resurrections and the Goliath in the Room
 
-*Warner Bros. / The Matrix (1999)*
 
 The Matrix Resurrections arrived in 2021 to a rumble of accusations and disappointment: cash-grab! feel-good romance! dumbed down! Neo and Trinity flying off into the sunset together? In *The Matrix*‽
 
