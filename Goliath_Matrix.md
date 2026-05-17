@@ -1,5 +1,6 @@
-![The Matrix (1999)](images/goliath_matrix.jpeg)
-
+<p align="center">
+  <img src="images/images/goliath_matrix.jpeg" width="600" alt="The Matrix 1999">
+</p>
 *Warner Bros. / The Matrix (1999)*
 
 
