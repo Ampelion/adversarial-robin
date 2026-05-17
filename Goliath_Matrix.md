@@ -1,4 +1,4 @@
-![The Matrix (1999)](goliath_matrix.jpeg)
+![The Matrix (1999)](images/goliath_matrix.jpeg)
 
 *Warner Bros. / The Matrix (1999)*
 
