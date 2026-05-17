@@ -2,7 +2,7 @@
 
 My thoughts on building an AI scientist.
 
-Reading order: essay → toy demo → conversation.
+Reading order: essay → toy demo and image → conversation.
 
 The essay lays out the idea: approximating the meta-cognitive tacit layer. 
 
