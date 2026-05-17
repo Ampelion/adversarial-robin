@@ -1,4 +1,3 @@
-![Paris-Roubaix](images/imitation_is_life.jpeg)
 <p align="center">
   <img src="images/imitation_is_life.jpeg" width="600" alt="Paris-Roubaix">
 </p>
