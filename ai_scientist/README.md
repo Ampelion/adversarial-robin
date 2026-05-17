@@ -1,3 +1,7 @@
-order:  ai scientist essay -> toy demo -> conversation
+# The Adversarial Robin
 
-My thoughts on building an an ai scientist.  The essay lays out the inclusion of an approximation of tacit knowledge. The demo code is a toy version of how it might work.  The conversation is an example of the what the input data might look like with my own unedited prompts as an example.  
+My thought on building an AI scientist.
+
+Reading order: essay → toy demo → conversation.
+
+The essay lays out the idea: approximating the meta-cognitive tacit layer. The toy demo is a small runnable version of how it might work, and its graphic shows the result. The conversation is an example of what the input data might look like — my own unedited prompts.
