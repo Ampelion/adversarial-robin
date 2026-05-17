@@ -1,3 +1,8 @@
+![The Matrix (1999)](goliath_matrix.jpeg)
+
+*Warner Bros. / The Matrix (1999)*
+
+
 # The Matrix: Resurrections and the Goliath in the Room
 
 
