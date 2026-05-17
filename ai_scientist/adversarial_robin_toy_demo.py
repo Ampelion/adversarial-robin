@@ -3,7 +3,6 @@ Adversarial Robin: toy demonstrator.
 
 Companion to the essay "The Adversarial Robin: In pursuit of an AI scientist"
 by J. Babin.
-code written by Claude Code
 
 Conceit:
 - A scalar "tacit" feature theta_true is the thing we want to recover.
