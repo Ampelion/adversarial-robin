@@ -1,6 +1,6 @@
 # The Adversarial Robin
 
-My thought on building an AI scientist.
+My thoughts on building an AI scientist.
 
 Reading order: essay → toy demo → conversation.
 
