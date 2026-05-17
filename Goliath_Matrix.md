@@ -1,7 +1,7 @@
 <p align="center">
   <img src="images/goliath_matrix.jpeg" width="600" alt="The Matrix 1999">
 </p>
-<p align="center"> *Warner Bros. / The Matrix (1999)*</p>p>
+<p align="center"> *Warner Bros. / The Matrix (1999)*</p>
 
 
 # The Matrix: Resurrections and the Goliath in the Room
