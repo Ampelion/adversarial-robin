@@ -1,5 +1,7 @@
 ![Paris-Roubaix](images/imitation_is_life.jpeg)
-
+<p align="center">
+  <img src="images/imitation_is_life.jpeg" width="600" alt="Paris-Roubaix">
+</p>
 # Imitation is experience; imitation is life.
 
 Looking up to an older sibling, doing everything just like big bro!
