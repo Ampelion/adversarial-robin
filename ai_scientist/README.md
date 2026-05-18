@@ -8,4 +8,4 @@ The essay lays out the idea: approximating the meta-cognitive tacit layer.
 
 The toy demo is a small runnable version of how it might work, and its graphic shows the result. 
 
-The conversation is an example of the thesis demonstrating itself — my own unedited prompts regarding the demo build.
+The conversation is an example of the thesis demonstrating itself — my own prompts as I worked through the rationale of the toy.
