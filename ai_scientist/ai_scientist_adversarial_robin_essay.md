@@ -4,7 +4,7 @@
 
 Josie Babin · May 2026
 
-AI models have breadth of factual recall beyond that of any human, there is no such thing (yet) as an AI scientist. An AI's factual repertoire and the inferences made therefrom derive from what scientists (or any other human) wrote down. A peer-reviewed article is a hard-thought, iterated communication of their activities streamlined to accentuate the contribution being made with as much noise stripped out as possible. The AI is tasked with doing science by learning from the intellectual residue of cognitive and physical action undertaken by imperfect beings whose own minds sometimes fail to recognize how they know things.
+AI models have breadth of factual recall beyond that of any human. There is no such thing (yet) as an AI scientist. An AI's factual repertoire and the inferences made therefrom derive from what scientists (or any other human) wrote down. A peer-reviewed article is a hard-thought, iterated communication of their activities streamlined to accentuate the contribution being made with as much noise stripped out as possible. The AI is tasked with doing science by learning from the intellectual residue of cognitive and physical action undertaken by imperfect beings whose own minds sometimes fail to recognize how they know things.
 
 A human Principal Investigator directing their lab does not build a career on recall of work that came before. Recall is necessary but insufficient; knowing the literature is mandatory but choosing what question to ask in light of it plus new observations is an intercalating layer essential to the process. Hypotheses get rejected with a wrinkled lip, reasoning gets bashed and honed in lab meetings, anomalous readings from an instrument get the side-eye before any formal write-up. Science as a process, a human endeavor, is replete with messy diversions throughout and its mostly polished output makes it to the training data.
 
@@ -14,7 +14,7 @@ Polanyi: we can know more than we can tell. The knowledge lives in the practice.
 
 The tacit dimension has two layers worth distinguishing. The object-level layer is pre-verbal and embodied: the pathologist's eye, the cyclist's body sense, the bench scientist's hands. This layer cannot translate to text. The meta-cognitive layer sits one step up: following a question that feels right, recognizing weirdness before you can say why, critical thinking turned inward. This layer is partially articulable. It gets stripped from published outputs but remains in conversation.
 
-LLMs are conversational and helpful. A user reasons through a thought experiment, providing a thorough explanation, the hedges and caveats, recognized biases and associated minutia, because the output quality hinges on the reasoning input quality. People explain things to an LLM they would streamline in a paper.
+LLMs are conversational and helpful. A user reasons through a thought experiment, providing a thorough explanation, the hedges and caveats, recognized biases and associated minutiae, because the output quality hinges on the reasoning input quality. People explain things to an LLM they would streamline in a paper.
 
 The prompt record is a potentially rich site of expression for the meta-cognitive tacit layer. The embodied layer is irrelevant to an AI scientist anyway, or has to be substituted by direct sensor data. The meta-cognitive layer is the part an AI scientist would need to graduate from post-doc to PI.
 
